@@ -1,5 +1,5 @@
 <h2 align="center">
-    ─「 𝐒ᴛʀᴀɴɢᴇʀ 𝘅 𝐌ᴜsɪᴄ 」─
+    ─「 queen 𝘅 𝐌ᴜsɪᴄ 」─
 
 </h2>
 
@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/oofdlt.png">
+  <img src="https://files.catbox.moe/8w5bg6.jpg">
 </p>
 
 
