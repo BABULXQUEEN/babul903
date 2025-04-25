@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","pileapp")
+OWNER_USERNAME = getenv("OWNER_USERNAME","mr_babul0")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "RADHE_MUSIC_X_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "babul_music_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "RADHE")
+BOT_NAME = getenv("BOT_NAME" , "˹𝗖𝗥𝗘𝗪 ✘ 𝗠𝗨𝗦𝗜𝗖˼")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "SUNA_NA_JI")
+ASSUSERNAME = getenv("ASSUSERNAME" , "crew_1348")
 # ---------------------------------------------------------
 
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/ASIFXQUEEN/XQUEENRADHE903",
+    "https://github.com/BABULXQUEEN/babul903",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/feeling_sad_Anu")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/feeling_sad_Anu")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+buVXCEkFdfBlYTk9")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+buVXCEkFdfBlYTk9")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,21 +141,21 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/oofdlt.png"
+    "START_IMG_URL", "https://files.catbox.moe/8w5bg6.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/oofdlt.png"
+    "PING_IMG_URL", "https://files.catbox.moe/8w5bg6.jpg"
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/oofdlt.png"
-STATS_IMG_URL = "https://files.catbox.moe/oofdlt.png"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/oofdlt.png"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/oofdlt.png"
-STREAM_IMG_URL = "https://files.catbox.moe/oofdlt.png"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/oofdlt.png"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/oofdlt.png"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/oofdlt.png"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/oofdlt.png"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/oofdlt.png"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/8w5bg6.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/8w5bg6.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/8w5bg6.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/8w5bg6.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/8w5bg6.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/8w5bg6.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/8w5bg6.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/8w5bg6.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/8w5bg6.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/8w5bg6.jpg"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
