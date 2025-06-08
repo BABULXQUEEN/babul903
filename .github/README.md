@@ -24,7 +24,7 @@ BABUL 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓𝐒
 </p>
 
 <h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+ [![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new-app?template=https://github.com/ASIFXQUEEN/QUEENXNAVEIB-UPDATED)
 </h3>
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BABULXQUEEN/babul-"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
